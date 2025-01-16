@@ -1,0 +1,22 @@
+#descripcion {
+    resize: none;
+}
+.bg-white{
+    background-color: #ffff;
+}
+.centrado {
+    background-color: coral;
+    text-align: center;
+    vertical-align: middle;
+    justify-content: center;
+}
+
+body {
+    background: #00416A;
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #E4E5E6, #00416A);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #E4E5E6, #00416A);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    ;
+}
